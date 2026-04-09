@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/cj_process_monitor.dir/main.cpp.o -o cj_process_monitor  libcj_process_monitor_lib.a -lsdbus-c++ -lsystemd 
