@@ -1,0 +1,7 @@
+<node name="/com/example/Object">
+    <interface name="com.example.Interface">
+        <signal name="ProcessUpdated">
+            <arg name="process" type="(isddtyts)" />
+        </signal>
+    </interface>
+</node>

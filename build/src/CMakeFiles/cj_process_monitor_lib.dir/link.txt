@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcj_process_monitor_lib.a CMakeFiles/cj_process_monitor_lib.dir/ProcessReader.cpp.o
+/usr/bin/ranlib libcj_process_monitor_lib.a

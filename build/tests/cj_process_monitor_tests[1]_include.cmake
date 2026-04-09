@@ -1,0 +1,5 @@
+if(EXISTS "/home/carlux/Code/cj-process-monitor/build/tests/cj_process_monitor_tests[1]_tests.cmake")
+  include("/home/carlux/Code/cj-process-monitor/build/tests/cj_process_monitor_tests[1]_tests.cmake")
+else()
+  add_test(cj_process_monitor_tests_NOT_BUILT cj_process_monitor_tests_NOT_BUILT)
+endif()

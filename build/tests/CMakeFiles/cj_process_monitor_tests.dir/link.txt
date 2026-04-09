@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/cj_process_monitor_tests.dir/test_main.cpp.o -o cj_process_monitor_tests  ../lib/libgtest_main.a ../src/libcj_process_monitor_lib.a ../lib/libgtest.a -lsdbus-c++ -lsystemd 

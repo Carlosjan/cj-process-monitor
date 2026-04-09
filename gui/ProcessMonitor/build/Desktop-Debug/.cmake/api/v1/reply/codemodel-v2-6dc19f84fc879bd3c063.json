@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-effefa0c9d18ca2b6887.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ProcessMonitor",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ProcessMonitor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProcessMonitor-Debug-c5a38f09e02358ec884b.json",
+					"name" : "ProcessMonitor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProcessMonitor_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProcessMonitor_autogen-Debug-a257061c8ee6feff5fd5.json",
+					"name" : "ProcessMonitor_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProcessMonitor_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProcessMonitor_autogen_timestamp_deps-Debug-1cb594f67d69956fc42d.json",
+					"name" : "ProcessMonitor_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/carlux/Code/cj-process-monitor/gui/ProcessMonitor/build/Desktop-Debug",
+		"source" : "/home/carlux/Code/cj-process-monitor/gui/ProcessMonitor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

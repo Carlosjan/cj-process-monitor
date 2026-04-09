@@ -1,0 +1,9 @@
+/home/carlux/Code/cj-process-monitor/gui/ProcessMonitor/build/Desktop-Debug/CMakeFiles/ProcessMonitor.dir
+/home/carlux/Code/cj-process-monitor/gui/ProcessMonitor/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/carlux/Code/cj-process-monitor/gui/ProcessMonitor/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/carlux/Code/cj-process-monitor/gui/ProcessMonitor/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/carlux/Code/cj-process-monitor/gui/ProcessMonitor/build/Desktop-Debug/CMakeFiles/install.dir
+/home/carlux/Code/cj-process-monitor/gui/ProcessMonitor/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/carlux/Code/cj-process-monitor/gui/ProcessMonitor/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/carlux/Code/cj-process-monitor/gui/ProcessMonitor/build/Desktop-Debug/CMakeFiles/ProcessMonitor_autogen_timestamp_deps.dir
+/home/carlux/Code/cj-process-monitor/gui/ProcessMonitor/build/Desktop-Debug/CMakeFiles/ProcessMonitor_autogen.dir
